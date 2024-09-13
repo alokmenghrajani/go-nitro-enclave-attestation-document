@@ -1,4 +1,4 @@
-module github.com/veracruz-project/go-nitro-enclave-attestation-document
+module github.com/alokmenghrajani/go-nitro-enclave-attestation-document
 
 go 1.19
 
